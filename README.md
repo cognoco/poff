@@ -36,6 +36,10 @@ For an eyes-closed break, choose Relax and sit somewhere comfortable and safe. M
 
 ## About this repository
 
+![Poff browser timer with Relax selected and a three-minute session ready to start](assets/poff-browser.jpg)
+
+Browser version at a phone-sized viewport, captured 17 November 2026. Native app controls can differ.
+
 Official product information maintained by Zwizzly AS, Norway. This repository contains public documentation and images; it is not the application source code. Poff is free to use; that does not imply an open-source software licence.
 
 [Privacy](https://poff.app/privacy) · [Support](https://poff.app/support)
